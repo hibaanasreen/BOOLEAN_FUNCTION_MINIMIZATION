@@ -44,9 +44,13 @@ module booleanfn(a,b,c,d,f1);
  endmodule
 ```
 **RTL realization**
-![Screenshot 2024-12-02 232011](https://github.com/user-attachments/assets/66834aa3-138e-411e-98be-8e249cf3f668)
 
 **Output:**
+
+![Screenshot 2024-12-02 232011](https://github.com/user-attachments/assets/66834aa3-138e-411e-98be-8e249cf3f668)
+
+**RTL**
+
 ![Screenshot 2024-12-03 070755](https://github.com/user-attachments/assets/b8e7d954-136c-456f-8da4-3dcfa43a6d07)
 
 
